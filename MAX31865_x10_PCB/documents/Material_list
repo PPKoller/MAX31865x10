@@ -1,0 +1,14 @@
+Material list PT100 x10 (5 units):
+
+  5x:	MIC5225-3.3
+ 50x:	MAX31865
+  5x:	PinHeader_2x20_P2.54mm
+  5x:	PinHeader_1x03_P2.54mm
+ 50x:	TerminalBlock_4Ucon_1x04_P3.50mm
+ 10x:	Capacitor 10uF
+ 50x:	Capacitor 100nF
+100x:	Capacitor 0.1uF
+150x:	Diode 1N4148
+150x:	Resistor 10K
+ 50x:	Resistor 430Ω / 4300Ω 0.1%
+ 50x:	FERRITE-0805NO
